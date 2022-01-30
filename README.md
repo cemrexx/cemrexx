@@ -3,8 +3,8 @@
 
 
 Hello I'm Cemre,  I have a bachelor's degree in
-
-Computer Engineering from Anadolu University. I’m currently working as FullStack Developer in Inavitas.
+Computer Engineering
+I’m currently working as FullStack Developer in Inavitas.
 <img src="worker.jpeg" width="200" height="250">
     				
 - 🌱 I’m currently learning React , React Native                             
