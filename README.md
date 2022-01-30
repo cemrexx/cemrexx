@@ -1,7 +1,6 @@
 ### Hi there I'm Cemre👋
 
-<!--
-**cemrexx/cemrexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hello I'm Cemre,  I have a bachelor's degree in Computer Engineering from Anadolu University.  I’m currently working as FullStack Developer in Inavitas.
 
